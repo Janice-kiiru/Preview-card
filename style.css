@@ -1,0 +1,83 @@
+ body{
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 215, 220);
+ }
+.container{
+    text-align: center;
+    position: relative;
+    position: absolute;
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.card{
+      margin-left: 0px;
+      margin-bottom: 100px;
+      margin-top: 30px;
+      text-align: left;
+      background-color: white;
+      border: 0px solid;
+      border-radius: 10px;
+      border-left: none;
+      padding: 15px;
+}
+img{
+    border: 0px solid;
+    border-radius: 10px 0px 0px 10px;
+    margin-top: -90px;
+}
+button{
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    font-size: small;
+    border: 0px;
+    margin-top: 40px;
+}
+header{
+    margin-right: 150px;
+    margin-top: 10px;
+        
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+h1{
+    font-family: "Oleo Script", system-ui;
+        
+    font-style: normal;
+    font-family: "Oleo Script", system-ui;
+    font-weight: 50;
+    font-style: normal;
+}
+.cost{
+    padding-top: 15px;
+    font-size: xx-large;
+    color: green;
+
+}
+.two{
+    margin-left: 35px;
+    font-size: small;
+    text-decoration-line: line-through;
+}
+p{
+    margin-bottom: 30px;
+    padding: 5px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
